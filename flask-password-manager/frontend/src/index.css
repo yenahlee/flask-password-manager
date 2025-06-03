@@ -1,0 +1,6 @@
+@import "tailwindcss";
+
+
+@theme {
+    --color-skyblue: #a4dffd;
+  }
